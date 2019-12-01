@@ -1,0 +1,76 @@
+=======================================
+  		VERSÃO 2.1 091117 1926		  |
+=======================================
+
+ 1 -> Verificação do código fonte
+
+ 2 ->  Correção dos BUGS da VERSÃO "2.0 031117 1813";
+ 
+ 2.1 -> BUG * 1 "Verificar os cleancreen da aplicação" => Resolvido;
+
+ 2.2 -> BUG * 2 => Resolvido;
+ 
+ 2.3 -> BUG * 3 => Resolvido;
+ 
+ 2.4 -> BUG * 5 => Resolvido;
+ 
+ 2.5 -> BUG * 6 => Resolvido;
+ 
+ 2.6 -> BUG * 7 => Resolvido;
+
+
+---------------------------------------------------
+				BUGS CONHECIDOS			  		  |
+---------------------------------------------------
+	
+ 1 -> Funções de cadastrar praias e listar praias não funcionam;
+ 2 -> Logar como administrador e reacessar o acesso torna-se inválido;
+
+
+--------------------------------------------------
+	        RESPONSÁVEIS PELA VERSÃO		 	  |
+--------------------------------------------------
+ 
+ 1-> Eduardo Marinho;
+
+
+
+=======================================
+  		VERSÃO 2.0 031117 1813		  |
+=======================================
+
+ 1 -> Reorganização do código fonte;
+
+ 2 -> Inserção de cabeçalho de referencia de novas classes;
+
+ 3 -> Novas classes (PainelUsuario, PainelAdministrador);
+
+ 4 -> Telas pré-moldadas (Usuário, Administrador);
+
+
+---------------------------------------------------
+				BUGS CONHECIDOS			  		  |
+---------------------------------------------------
+
+ 1 -> Verificar os cleancreen da aplicação;
+
+ 2 -> Depois de cadastrar o usuário na hora que ele pergunta se quer voltar pro menu, 
+      após vc digitar que sim ele volta pro menu, porém retorna a mensagem opção inválida;
+
+ 3 -> Depois de efetuar o login não aparece a mensagem de acesso liberado, não some a senha digitada, 
+	  traz as funções de logado porém também retorna a mensagem opção inválida;
+
+ 4 -> Funções de cadastrar praias e listar praias não funcionam;
+
+ 5 -> Incluir um clean dps de deslogar;
+
+ 6 -> Na função acessoUsuario.c linha 54, o if chama a função painelUsuario mas ignora as linhas anteriores;
+
+ 7 -> A função painelUsuario não está sofrendo alterações;
+
+--------------------------------------------------
+	        RESPONSÁVEIS PELA VERSÃO		 	  |
+--------------------------------------------------
+ 
+ 1-> Eduardo Marinho;
+ 2-> Havila Amparo.
