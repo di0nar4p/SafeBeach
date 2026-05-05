@@ -1,12 +1,12 @@
 =======================================
-  		VERSÃO 2.1 091117 1926		  |
+  		VERSÃƒO 2.1 091117 1926		  |
 =======================================
 
- 1 -> Verificação do código fonte
+ 1 -> VerificaÃ§Ã£o do cÃ³digo fonte
 
- 2 ->  Correção dos BUGS da VERSÃO "2.0 031117 1813";
+ 2 ->  CorreÃ§Ã£o dos BUGS da VERSÃƒO "2.0 031117 1813";
  
- 2.1 -> BUG * 1 "Verificar os cleancreen da aplicação" => Resolvido;
+ 2.1 -> BUG * 1 "Verificar os cleancreen da aplicaÃ§Ã£o" => Resolvido;
 
  2.2 -> BUG * 2 => Resolvido;
  
@@ -23,12 +23,12 @@
 				BUGS CONHECIDOS			  		  |
 ---------------------------------------------------
 	
- 1 -> Funções de cadastrar praias e listar praias não funcionam;
- 2 -> Logar como administrador e reacessar o acesso torna-se inválido;
+ 1 -> FunÃ§Ãµes de cadastrar praias e listar praias nÃ£o funcionam;
+ 2 -> Logar como administrador e reacessar o acesso torna-se invÃ¡lido;
 
 
 --------------------------------------------------
-	        RESPONSÁVEIS PELA VERSÃO		 	  |
+	        RESPONSÃVEIS PELA VERSÃƒO		 	  |
 --------------------------------------------------
  
  1-> Eduardo Marinho;
@@ -36,41 +36,42 @@
 
 
 =======================================
-  		VERSÃO 2.0 031117 1813		  |
+  		VERSÃƒO 2.0 031117 1813		  |
 =======================================
 
- 1 -> Reorganização do código fonte;
+ 1 -> ReorganizaÃ§Ã£o do cÃ³digo fonte;
 
- 2 -> Inserção de cabeçalho de referencia de novas classes;
+ 2 -> InserÃ§Ã£o de cabeÃ§alho de referencia de novas classes;
 
  3 -> Novas classes (PainelUsuario, PainelAdministrador);
 
- 4 -> Telas pré-moldadas (Usuário, Administrador);
+ 4 -> Telas prÃ©-moldadas (UsuÃ¡rio, Administrador);
 
 
 ---------------------------------------------------
 				BUGS CONHECIDOS			  		  |
 ---------------------------------------------------
 
- 1 -> Verificar os cleancreen da aplicação;
+ 1 -> Verificar os cleancreen da aplicaÃ§Ã£o;
 
- 2 -> Depois de cadastrar o usuário na hora que ele pergunta se quer voltar pro menu, 
-      após vc digitar que sim ele volta pro menu, porém retorna a mensagem opção inválida;
+ 2 -> Depois de cadastrar o usuÃ¡rio na hora que ele pergunta se quer voltar pro menu, 
+      apÃ³s vc digitar que sim ele volta pro menu, porÃ©m retorna a mensagem opÃ§Ã£o invÃ¡lida;
 
- 3 -> Depois de efetuar o login não aparece a mensagem de acesso liberado, não some a senha digitada, 
-	  traz as funções de logado porém também retorna a mensagem opção inválida;
+ 3 -> Depois de efetuar o login nÃ£o aparece a mensagem de acesso liberado, nÃ£o some a senha digitada, 
+	  traz as funÃ§Ãµes de logado porÃ©m tambÃ©m retorna a mensagem opÃ§Ã£o invÃ¡lida;
 
- 4 -> Funções de cadastrar praias e listar praias não funcionam;
+ 4 -> FunÃ§Ãµes de cadastrar praias e listar praias nÃ£o funcionam;
 
  5 -> Incluir um clean dps de deslogar;
 
- 6 -> Na função acessoUsuario.c linha 54, o if chama a função painelUsuario mas ignora as linhas anteriores;
+ 6 -> Na funÃ§Ã£o acessoUsuario.c linha 54, o if chama a funÃ§Ã£o painelUsuario mas ignora as linhas anteriores;
 
- 7 -> A função painelUsuario não está sofrendo alterações;
+ 7 -> A funÃ§Ã£o painelUsuario nÃ£o estÃ¡ sofrendo alteraÃ§Ãµes;
 
 --------------------------------------------------
-	        RESPONSÁVEIS PELA VERSÃO		 	  |
+	        RESPONSÃVEIS PELA VERSÃƒO		 	  |
 --------------------------------------------------
  
- 1-> Eduardo Marinho;
- 2-> Havila Amparo.
+ 1-> Glauco Santos;
+ 2-> Havila Amparo;
+ 3-> Eduardo Marinho.
